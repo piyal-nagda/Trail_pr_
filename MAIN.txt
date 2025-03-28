@@ -1,3 +1,11 @@
 hello
-where are you 
-in which country
+<<<<<<< HEAD
+i am doing great
+i live in city2
+i live in country2
+how about you
+=======
+i live in hyd
+i live in country1
+how about you
+>>>>>>> 2f025817355bea54e7e1d3aeac0c8a264ce3828b
