@@ -1,3 +1,5 @@
 hello
-where are you 
-in which country
+i am doing great
+i live in city2
+i live in country2
+how about you
